@@ -64,9 +64,3 @@
 | **Beta-Cart** | PyTorch, ResNet18, Streamlit, SQLite | AI product image classifier, 5 categories, per-user prediction history |
 
 
-### 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=baargavi100&theme=dark&show_icons=true&hide=issues,contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baargavi100&theme=dark&layout=compact)
-
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=baargavi100&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)
