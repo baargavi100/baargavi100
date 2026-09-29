@@ -45,7 +45,12 @@
 **AI/ML**
 
 ![AI](https://skillicons.dev/icons?i=pytorch,opencv)
-`LangChain` `RAG` `Ollama` `pgvector` `n8n`
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 **Tools**
 
@@ -58,13 +63,6 @@
 | **WeHRM** | Spring Boot, React 19, TypeScript, MySQL, JWT | HRMS SaaS with 15+ modules, 7 roles, payroll and leave automation, payslip PDFs |
 | **Beta-Cart** | PyTorch, ResNet18, Streamlit, SQLite | AI product image classifier, 5 categories, per-user prediction history |
 
-### 🏆 Achievements
-
-- 🥇 Paper & Poster Winner, Techknowsafe 1.0 (Cybersecurity)
-- 🥇 Poster Winner, Techknowsafe 2.0 (Cybersecurity)
-- 🥇 Paper Winner, Sudharshan Engineering College (Cybersecurity)
-- 🎓 Academic Topper, Dept. of CSE
-- 🎪 Active organizer of technical college events
 
 ### 📊 GitHub Stats
 
